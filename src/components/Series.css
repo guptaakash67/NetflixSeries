@@ -22,6 +22,7 @@
     margin: 10px;
     font-size: 1.5em;
     color: #333;
+    gap: 1.2rem;
 }
 
 /* Card footer */
@@ -31,6 +32,8 @@
     padding: 10px;
     text-align: left;
     border-top: 1px solid #ddd;
+    gap: 1.2rem;
+    
 }
 
 /* Button in card footer */

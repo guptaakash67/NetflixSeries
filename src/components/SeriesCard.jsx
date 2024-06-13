@@ -10,18 +10,19 @@ export const SeriesCard = (props)=>{
          </img>
          </div>
 
+      <div >
       <h2>Name:{name } </h2>
-      <h3>Rating no:{rating } </h3>  
-       <summary>Summary:{summary} </summary>
+      <h3 >Rating no:{rating } </h3>  
+       <summary style={{margin:"1.2rem 0"}}>Summary:{summary} </summary>
        <p>Genre:{genre}</p>
        <p>Cast:{cast}</p>
-       <a href={watch_url} target="_blank">
+       <a target="_blank">
        <button>Watch Now</button>
        </a>
+       </div>
        </li>
         )
         }
   
-
 
 export default SeriesCard;

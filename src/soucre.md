@@ -101,3 +101,21 @@ child components access props through their function parameter.
 you can also pass JSX as props to another componenets. 
 
 *destructuring in jsx
+
+
+# 1 Javascript object Syntax
+
+Inline styles in react are specifies using javascript objects. property naems are written in camelcases instead of the traditional css kebab-case.
+
+cosnt style ={
+ backgroundColor: 'blue';
+ fontSize: '10px'   
+}
+
+#2 units
+for most numeric values you need to specify units as a string (eg, '16px'). some properties like zIndex can take numeric values directly.
+
+const style = {
+padding : '10px',
+zIndex: 1,
+}
