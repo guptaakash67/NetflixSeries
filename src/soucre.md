@@ -119,3 +119,8 @@ const style = {
 padding : '10px',
 zIndex: 1,
 }
+
+
+#CSS conditional stylings in reactjs
+
+you can use ternary operators to add conditional stylings to your css.

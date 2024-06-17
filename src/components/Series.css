@@ -1,39 +1,39 @@
+
 .card {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
     border-radius: 10px;
     overflow: hidden;
-    margin: 20px;
-    max-width: 300px;
+    max-width: 400px;
     background-color: #fff;
 }
 
 /* Card header */
-.card-header {
+/* .card-content {
     background-color: #f4f4f4;
+    margin-bottom: 3.2rem;
+    margin: 1.2rem 0;
     padding: 20px;
     font-size: 1.5em;
     font-weight: bold;
     border-bottom: 1px solid #ddd;
-}
-
-/* Card body */
-.card-body {
-    padding: 20px;
-    margin: 10px;
-    font-size: 1.5em;
+    padding: 3rem 1.5rem;
+    font-size: 1.5rem;
     color: #333;
-    gap: 1.2rem;
-}
+    gap: 1.5rem;
+} */
+
+
 
 /* Card footer */
 .card-footer {
     background-color: #f4f4f4;
+    margin: 1.2rem 0;
     margin: 10px;
     padding: 10px;
     text-align: left;
     border-top: 1px solid #ddd;
-    gap: 1.2rem;
-    
+    gap: 1.9rem;
 }
 
 /* Button in card footer */
@@ -51,3 +51,30 @@
 .card-color {
     background-color: rgb(255, 217, 0);
 }
+
+.super_hit{
+    background-color: #7dcea0;
+    padding: 0.3rem 1.8rem;
+    color: #000;
+    margin-block: 0.5rem;
+    -ms-border-radius: 100rem;
+    -o-border-radius: 100rem;
+    -webkit-border-radius: 100rem;
+    -moz-border-radius: 100rem;
+    border-radius: 100rem;
+}
+
+.average{
+    background-color: #f7dc6f;
+    padding: 0.3rem 1.8rem;
+    color: #000;
+    margin-block: 0.5rem;
+    -ms-border-radius: 100rem;
+    -o-border-radius: 100rem;
+    -webkit-border-radius: 100rem;
+    -moz-border-radius: 100rem;
+    border-radius: 100rem;
+}
+
+
+

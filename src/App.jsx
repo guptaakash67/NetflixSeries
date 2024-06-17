@@ -3,6 +3,8 @@ import NetflixSeries  from "./components/NetflixSeries";
 import "./components/Netflix.css"
 
 
+
+
 export const App =()=>{
   // return ( [<NetflixSeries key={1}/>, <NetflixSeries key={2}/>];
   return(

@@ -4,9 +4,9 @@
       "id": "lovely-runner",
       "img_url": "http://localhost:5173/images/ll.jpg",
       "rating": "9.8",
-      "summary": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae.",
-      "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
-      "genre": ["Romantic Comedy", "Fantasy"],
+      "summary": "The series follows the journey of Im Sol, an ardent fan of idol Ryu Sun-jae. Sol, a once-promising film director whose dreams were shattered by an accident leaving her paralyzed, finds solace in the music of Sun-jae.",
+      "cast": ["Kim Hye Yoon", "Byeon Woo"],
+      "genre": ["Romantic, Comedy, Fantasy"],
       "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
     },
     {
@@ -14,9 +14,9 @@
       "id": "stranger-things",
       "img_url": "http://localhost:5173/images/st.jpg",
       "rating": "8.7",
-      "summary": "A group of young friends witness supernatural forces and secret government exploits.",
+      "summary": "Stranger Things is an American science fiction horror drama television series created by the Duffer Brothers for Netflix. Produced by Monkey Massacre Productions and 21 Laps Entertainment.",
       "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
-      "genre": ["Drama", "Fantasy", "Horror"],
+      "genre": ["Drama, Fantasy, Horror"],
       "watch_url": "https://www.netflix.com/title/80057281"
     },
     {
@@ -24,9 +24,9 @@
       "id": "the-witcher",
       "img_url": "http://localhost:5173/images/tw.jpg",
       "rating": "8.2",
-      "summary": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
-      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
-      "genre": ["Action", "Adventure", "Drama"],
+      "summary": "The Witcher is a fantasy drama television series created by Lauren Schmidt Hissrich for Netflix. It is based on the book series[a] by Polish writer Andrzej Sapkowski. Set on a fictional, medieval-inspired landmass.",
+      "cast": ["Henry Cavill, Anya Chalotra, Freya Allan"],
+      "genre": ["Action, Adventure, Drama"],
       "watch_url": "https://www.netflix.com/title/80189685"
     },
     {
@@ -36,7 +36,7 @@
       "rating": "8.3",
       "summary": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
       "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
-      "genre": ["Action", "Crime", "Drama"],
+      "genre": ["Action, Crime, Drama"],
       "watch_url": "https://www.netflix.com/title/80192098"
     },
     {
@@ -44,9 +44,9 @@
       "id": "the-crown",
       "img_url": "http://localhost:5173/images/tc.jpg",
       "rating": "8.6",
-      "summary": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+      "summary": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped.",
       "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
-      "genre": ["Biography", "Drama", "History"],
+      "genre": ["Biography, Drama, History"],
       "watch_url": "https://www.netflix.com/title/80025678"
     },
     {
@@ -54,20 +54,40 @@
       "id": "squid-game",
       "img_url": "http://localhost:5173/images/sg.jpg",
       "rating": "8.1",
-      "summary": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
-      "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
-      "genre": ["Action", "Drama", "Mystery"],
+      "summary": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games.",
+      "cast": ["Lee Jung-jae", "Park Hae-soo"],
+      "genre": ["Action, Drama, Mystery"],
       "watch_url": "https://www.netflix.com/title/81040344"
     },
     {
       "name": "Harry Potter",
       "id": "harry-potter",
       "img_url": "http://localhost:5173/images/harry.jpg",
-      "rating": "10",
-      "summary": "Harry attends Hogwarts and is thrilled to see how interesting this new world of magic is.",
+      "rating": "8.2",
+      "summary": "Harry lies, telling Quirrell that he sees himself in the mirror winning the house cup for Gryffindor. Voldemort tells Quirrell that Harry is lying..",
       "cast": ["Kim Soo Hyun", "Kim Ji Won"],
-      "genre": ["Drama", "Romance"],
+      "genre": ["Drama, Romance"],
       "watch_url": "https://www.techradar.com/how-to/watch-harry-potter-online"
+    },
+    {
+      "name": "Dexter",
+      "id": "Dexter",
+      "img_url": "http://localhost:5173/images/dx.jpg",
+      "rating": "8.5",
+      "summary": "He's smart, he's good looking, and he's got a great sense of humor. He's Dexter Morgan, everyone's favorite serial killer.",
+      "cast": ["KJeff Lindsay", "Jennifer Carpenter", "Julie Benz"],
+      "genre": ["Drama, honour, Romance"],
+      "watch_url": "https://www.netflix.com/in/title/70136126"
+    },
+    {
+      "name": "fast and fouris 2",
+      "id": "fast-fouris",
+      "img_url": "http://localhost:5173/images/ff.jpg",
+      "rating": "10",
+      "summary": "2 Fast 2 Furious premiered at the Universal Amphitheatre in Los Angeles on June 3, 2003. The film received mostly negative reviews from critics and grossed $236.4 million worldwide",
+      "cast": ["Vin Diesel, Paul Walker, and Dwayne Johnson"],
+      "genre": ["Drama, Actions, Romance"],
+      "watch_url": "https://qr.netflix.com/ph-en/title/60027713"
     }
   ]
   
