@@ -124,3 +124,46 @@ zIndex: 1,
 #CSS conditional stylings in reactjs
 
 you can use ternary operators to add conditional stylings to your css.
+
+#Event Propagation
+Evenr Propagation refers to the process of how events propagate or travel through the dom
+in javascript there are two phases of events propagate capturing phase and bubbling phase
+
+capturing phases
+the events starts from the root of the DOM and goes down to the target elements.
+
+target phase
+the event reaches the target elements
+
+bubbling phase
+the events start the target element bubbles buttom uo to the root of the DOM
+
+#states in reactjs - job bhi value aage ja kr change hone wale hai uske lia state use karta hai
+in react state refers to an object that holds data or information about the components,
+state is managed within the components just like variable declared in a function. however
+ unlike regular variable when state changes, react re-render the components to reflects these changes, keeping the user interface in sync with the data.
+
+ state is dyanamic and mutable meaning it changes over the time in respones to user actions, server respones or other events.
+
+ #why react
+ its because those are normal variable and reactjs dosent know that its going to be changed
+ -And that react should respond or update DOM based on that.
+ -Those values are already rendered on DOM there is no way they will re-rendered.
+ -for that react.js provides a function called "useState".
+ -This types of function which starts with "use" is called hook.
+ -this is a speacial function ehich has some features provided by react.js
+ -we will larb about other hooks in future. 
+
+
+ #useState Syntax
+ const[count,setCount]=useState(0)
+
+ #react quwstion
+ in console why were getting same output 2times- beacuse in main jsx there is react.strickmode is
+
+ #lifting state update
+ -lifting si a pattern in reactjs
+ -koi toh ek state hoga jo tumne child componenets banie or dusre child component o chaiya 
+ -child component mai banyie usko parent componenets 
+ -agar parent ke pass ko data hai or unke child component ko data chaiya toh apun Props use krke data pass kar sakte
+ -agar apne ko child componenets se parent componenets mai data pass karn hai toh lifting up state use kar sakte hai
