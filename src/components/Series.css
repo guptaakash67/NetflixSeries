@@ -1,4 +1,4 @@
-
+/* 
 .card {
     box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
     rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
@@ -10,7 +10,7 @@
 
 
 Card header */
-   .card-content {
+   /* .card-content {
     background-color: #f4f4f4;
     margin-bottom: 3.2rem;
     margin: 1.2rem 0;
@@ -26,7 +26,7 @@ Card header */
 
 
 
-/* Card footer */
+Card footer
 .card-footer {
     background-color: #f4f4f4;
     margin: 1.2rem 0;
@@ -38,7 +38,7 @@ Card header */
 }
 
 /* Button in card footer */
-.card-footer button {
+/* .card-footer button {
     background-color: #007bff;
     color: white;
     border: none;
@@ -47,9 +47,9 @@ Card header */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-}
+} */
 
-.card-color {
+/* .card-color {
     background-color: rgb(255, 217, 0);
 }
 
@@ -75,7 +75,4 @@ Card header */
     -webkit-border-radius: 100rem;
     -moz-border-radius: 100rem;
     border-radius: 100rem;
-}
-
-
-
+} */ 
